@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>test_cauliflower_Image_9.jpg</filename>
+	<path>E:\Project\Data Science\Fruit Classification\Kaggle Dataset\labelimg\train\test_cauliflower_Image_9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2583</width>
+		<height>1956</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cauliflower</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>543</xmin>
+			<ymin>195</ymin>
+			<xmax>2078</xmax>
+			<ymax>1483</ymax>
+		</bndbox>
+	</object>
+</annotation>

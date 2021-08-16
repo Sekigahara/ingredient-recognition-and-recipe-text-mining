@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>test_kiwi_Image_5.jpg</filename>
+	<path>E:\Project\Data Science\Fruit Classification\Kaggle Dataset\labelimg\train\test_kiwi_Image_5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kiwi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>232</xmin>
+			<ymin>62</ymin>
+			<xmax>559</xmax>
+			<ymax>379</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>kiwi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>48</ymin>
+			<xmax>225</xmax>
+			<ymax>318</ymax>
+		</bndbox>
+	</object>
+</annotation>

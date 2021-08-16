@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>test_beetroot_Image_9.jpg</filename>
+	<path>E:\Project\Data Science\Fruit Classification\Kaggle Dataset\labelimg\train\test_beetroot_Image_9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1681</width>
+		<height>3058</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>beetroot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>342</xmin>
+			<ymin>1350</ymin>
+			<xmax>896</xmax>
+			<ymax>2850</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>beetroot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>857</xmin>
+			<ymin>816</ymin>
+			<xmax>1378</xmax>
+			<ymax>2301</ymax>
+		</bndbox>
+	</object>
+</annotation>

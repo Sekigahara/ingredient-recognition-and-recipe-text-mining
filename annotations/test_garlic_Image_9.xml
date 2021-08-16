@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>test_garlic_Image_9.jpg</filename>
+	<path>E:\Project\Data Science\Fruit Classification\Kaggle Dataset\labelimg\train\test_garlic_Image_9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2304</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>garlic</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>477</xmin>
+			<ymin>1348</ymin>
+			<xmax>2046</xmax>
+			<ymax>2776</ymax>
+		</bndbox>
+	</object>
+</annotation>
