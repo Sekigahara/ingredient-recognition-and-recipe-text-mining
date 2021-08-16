@@ -1,7 +1,7 @@
 <annotation>
 	<folder>train</folder>
 	<filename>test_lemon_Image_5.jpg</filename>
-	<path>E:\Project\Data Science\Fruit Classification\Kaggle Dataset\labelimg\train\test_lemon_Image_5.jpg</path>
+	<path>../image/test_lemon_Image_5.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
