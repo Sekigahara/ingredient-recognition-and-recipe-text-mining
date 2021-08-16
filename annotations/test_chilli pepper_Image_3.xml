@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>test_chilli pepper_Image_3.jpg</filename>
+	<path>E:\Project\Data Science\Fruit Classification\Kaggle Dataset\labelimg\train\test_chilli pepper_Image_3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chili</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>760</xmin>
+			<ymin>246</ymin>
+			<xmax>900</xmax>
+			<ymax>768</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>chili</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>1</difficult>
+		<bndbox>
+			<xmin>477</xmin>
+			<ymin>88</ymin>
+			<xmax>934</xmax>
+			<ymax>344</ymax>
+		</bndbox>
+	</object>
+</annotation>

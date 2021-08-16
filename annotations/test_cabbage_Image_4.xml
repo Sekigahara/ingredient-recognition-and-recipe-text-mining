@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>test_cabbage_Image_4.jpg</filename>
+	<path>E:\Project\Data Science\Fruit Classification\Kaggle Dataset\labelimg\train\test_cabbage_Image_4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2272</width>
+		<height>1704</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cabbage</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>299</xmin>
+			<ymin>109</ymin>
+			<xmax>2029</xmax>
+			<ymax>1499</ymax>
+		</bndbox>
+	</object>
+</annotation>
