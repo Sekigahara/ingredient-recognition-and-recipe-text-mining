@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>train_tomato_Image_78.jpg</filename>
+	<path>E:\Project\Data Science\Fruit Classification\image\train_tomato_Image_78.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>745</width>
+		<height>533</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tomato</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>326</xmin>
+			<ymin>115</ymin>
+			<xmax>735</xmax>
+			<ymax>500</ymax>
+		</bndbox>
+	</object>
+</annotation>

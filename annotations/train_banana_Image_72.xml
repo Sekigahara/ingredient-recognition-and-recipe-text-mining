@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>train_banana_Image_72.jpg</filename>
+	<path>E:\Project\Data Science\Fruit Classification\image\train_banana_Image_72.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>banana</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>34</xmin>
+			<ymin>117</ymin>
+			<xmax>596</xmax>
+			<ymax>373</ymax>
+		</bndbox>
+	</object>
+</annotation>

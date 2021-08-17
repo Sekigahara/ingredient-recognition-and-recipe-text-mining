@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>train_cauliflower_Image_10.jpg</filename>
+	<path>E:\Project\Data Science\Fruit Classification\image\train_cauliflower_Image_10.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2583</width>
+		<height>1956</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cauliflower</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>704</xmin>
+			<ymin>356</ymin>
+			<xmax>1950</xmax>
+			<ymax>1456</ymax>
+		</bndbox>
+	</object>
+</annotation>

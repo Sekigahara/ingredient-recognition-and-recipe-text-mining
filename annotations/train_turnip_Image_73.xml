@@ -1,0 +1,38 @@
+<annotation>
+	<folder>image</folder>
+	<filename>train_turnip_Image_73.jpg</filename>
+	<path>E:\Project\Data Science\Fruit Classification\image\train_turnip_Image_73.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1088</width>
+		<height>816</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>turnip</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>302</xmin>
+			<ymin>345</ymin>
+			<xmax>567</xmax>
+			<ymax>582</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>turnip</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>566</xmin>
+			<ymin>333</ymin>
+			<xmax>822</xmax>
+			<ymax>556</ymax>
+		</bndbox>
+	</object>
+</annotation>

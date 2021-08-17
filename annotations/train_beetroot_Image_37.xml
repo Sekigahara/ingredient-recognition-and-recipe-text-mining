@@ -1,0 +1,38 @@
+<annotation>
+	<folder>image</folder>
+	<filename>train_beetroot_Image_37.jpg</filename>
+	<path>E:\Project\Data Science\Fruit Classification\image\train_beetroot_Image_37.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>beetroot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>99</ymin>
+			<xmax>168</xmax>
+			<ymax>255</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>beetroot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>169</xmin>
+			<ymin>59</ymin>
+			<xmax>298</xmax>
+			<ymax>217</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>image</folder>
+	<filename>train_pomegranate_Image_74.jpg</filename>
+	<path>E:\Project\Data Science\Fruit Classification\image\train_pomegranate_Image_74.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2677</width>
+		<height>1321</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pomegranate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>160</xmin>
+			<ymin>201</ymin>
+			<xmax>1442</xmax>
+			<ymax>1178</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pomegranate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1466</xmin>
+			<ymin>43</ymin>
+			<xmax>2564</xmax>
+			<ymax>1115</ymax>
+		</bndbox>
+	</object>
+</annotation>

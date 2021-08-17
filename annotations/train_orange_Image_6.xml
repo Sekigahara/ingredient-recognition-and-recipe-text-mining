@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>train_orange_Image_6.jpg</filename>
+	<path>E:\Project\Data Science\Fruit Classification\image\train_orange_Image_6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5456</width>
+		<height>3632</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>orange</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1496</xmin>
+			<ymin>375</ymin>
+			<xmax>4509</xmax>
+			<ymax>3447</ymax>
+		</bndbox>
+	</object>
+</annotation>

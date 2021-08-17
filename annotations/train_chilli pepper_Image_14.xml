@@ -1,0 +1,38 @@
+<annotation>
+	<folder>image</folder>
+	<filename>train_chilli pepper_Image_14.jpg</filename>
+	<path>E:\Project\Data Science\Fruit Classification\image\train_chilli pepper_Image_14.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chili</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>314</xmin>
+			<ymin>30</ymin>
+			<xmax>550</xmax>
+			<ymax>782</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>chili</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>26</xmin>
+			<ymin>53</ymin>
+			<xmax>325</xmax>
+			<ymax>541</ymax>
+		</bndbox>
+	</object>
+</annotation>
