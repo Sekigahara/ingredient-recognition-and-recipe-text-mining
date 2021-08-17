@@ -1,0 +1,38 @@
+<annotation>
+	<folder>image</folder>
+	<filename>train_corn_Image_55.jpg</filename>
+	<path>E:\Project\Data Science\Fruit Classification\image\train_corn_Image_55.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2716</width>
+		<height>1810</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>corn</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1364</xmin>
+			<ymin>269</ymin>
+			<xmax>1943</xmax>
+			<ymax>1456</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>corn</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>777</xmin>
+			<ymin>793</ymin>
+			<xmax>1038</xmax>
+			<ymax>1291</ymax>
+		</bndbox>
+	</object>
+</annotation>

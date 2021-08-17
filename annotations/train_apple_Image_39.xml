@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>train_apple_Image_39.jpg</filename>
+	<path>E:\Project\Data Science\Fruit Classification\image\train_apple_Image_39.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3456</width>
+		<height>2298</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>apple</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>715</xmin>
+			<ymin>279</ymin>
+			<xmax>2452</xmax>
+			<ymax>2021</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>image</folder>
+	<filename>train_cabbage_Image_59.jpg</filename>
+	<path>E:\Project\Data Science\Fruit Classification\image\train_cabbage_Image_59.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2400</width>
+		<height>2400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cabbage</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>61</xmin>
+			<ymin>80</ymin>
+			<xmax>1607</xmax>
+			<ymax>830</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cabbage</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>221</xmin>
+			<ymin>921</ymin>
+			<xmax>1962</xmax>
+			<ymax>2359</ymax>
+		</bndbox>
+	</object>
+</annotation>

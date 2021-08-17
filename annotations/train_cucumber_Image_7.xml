@@ -1,0 +1,38 @@
+<annotation>
+	<folder>image</folder>
+	<filename>train_cucumber_Image_7.jpg</filename>
+	<path>E:\Project\Data Science\Fruit Classification\image\train_cucumber_Image_7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3463</width>
+		<height>2309</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cucumber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1048</xmin>
+			<ymin>174</ymin>
+			<xmax>3328</xmax>
+			<ymax>2074</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cucumber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>670</xmin>
+			<ymin>1429</ymin>
+			<xmax>1361</xmax>
+			<ymax>2018</ymax>
+		</bndbox>
+	</object>
+</annotation>

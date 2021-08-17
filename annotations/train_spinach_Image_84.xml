@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>train_spinach_Image_84.jpg</filename>
+	<path>E:\Project\Data Science\Fruit Classification\image\train_spinach_Image_84.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>1300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>spinach</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>179</xmin>
+			<ymin>260</ymin>
+			<xmax>1205</xmax>
+			<ymax>1021</ymax>
+		</bndbox>
+	</object>
+</annotation>
