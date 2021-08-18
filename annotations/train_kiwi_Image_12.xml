@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>train_kiwi_Image_12.jpg</filename>
+	<path>D:/Tugas/Project/IAS/tagging yolo/windows_v1.8.0/data/train/train_kiwi_Image_12.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2723</width>
+		<height>1816</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kiwi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>188</xmin>
+			<ymin>195</ymin>
+			<xmax>1316</xmax>
+			<ymax>1181</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>kiwi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1304</xmin>
+			<ymin>891</ymin>
+			<xmax>2246</xmax>
+			<ymax>1649</ymax>
+		</bndbox>
+	</object>
+</annotation>
