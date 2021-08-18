@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>train_ginger_Image_41.jpg</filename>
+	<path>D:/Tugas/Project/IAS/tagging yolo/windows_v1.8.0/data/train/train_ginger_Image_41.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>732</width>
+		<height>549</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ginger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>37</ymin>
+			<xmax>216</xmax>
+			<ymax>340</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>ginger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<ymin>323</ymin>
+			<xmax>203</xmax>
+			<ymax>443</ymax>
+		</bndbox>
+	</object>
+</annotation>

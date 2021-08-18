@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>train_lemon_Image_37.png</filename>
+	<path>D:/Tugas/Project/IAS/tagging yolo/windows_v1.8.0/data/train/train_lemon_Image_37.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2037</width>
+		<height>1669</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lemon</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>7</ymin>
+			<xmax>2037</xmax>
+			<ymax>1669</ymax>
+		</bndbox>
+	</object>
+</annotation>
