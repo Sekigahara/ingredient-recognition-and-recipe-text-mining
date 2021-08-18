@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>train_pineapple_Image_87.png</filename>
+	<path>E:\Project\Data Science\Fruit Classification\image\train_pineapple_Image_87.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1379</width>
+		<height>2957</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pinneaple</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>148</xmin>
+			<ymin>1446</ymin>
+			<xmax>1254</xmax>
+			<ymax>2916</ymax>
+		</bndbox>
+	</object>
+</annotation>

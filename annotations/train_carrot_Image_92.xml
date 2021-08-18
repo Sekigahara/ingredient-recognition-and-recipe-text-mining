@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>train_carrot_Image_92.png</filename>
+	<path>E:\Project\Data Science\Fruit Classification\image\train_carrot_Image_92.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>219</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>carrot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>42</xmin>
+			<ymin>86</ymin>
+			<xmax>142</xmax>
+			<ymax>200</ymax>
+		</bndbox>
+	</object>
+</annotation>

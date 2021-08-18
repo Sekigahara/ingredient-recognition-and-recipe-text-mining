@@ -1,0 +1,38 @@
+<annotation>
+	<folder>image</folder>
+	<filename>train_bell pepper_Image_69.jpg</filename>
+	<path>E:\Project\Data Science\Fruit Classification\image\train_bell pepper_Image_69.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>869</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>paprica</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>551</xmin>
+			<ymin>71</ymin>
+			<xmax>996</xmax>
+			<ymax>744</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>paprica</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>124</xmin>
+			<ymin>176</ymin>
+			<xmax>580</xmax>
+			<ymax>630</ymax>
+		</bndbox>
+	</object>
+</annotation>
