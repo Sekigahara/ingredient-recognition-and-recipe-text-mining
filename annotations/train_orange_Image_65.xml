@@ -1,7 +1,7 @@
 <annotation>
 	<folder>image</folder>
 	<filename>train_orange_Image_65.jpg</filename>
-	<path>E:\Project\Data Science\Fruit Classification\image\train_orange_Image_65.jpg</path>
+	<path>..\image\train_orange_Image_65.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
