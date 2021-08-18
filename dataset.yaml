@@ -7,9 +7,8 @@ test:  # test images (optional)
 # Classes
 nc: 19  # number of classes
 names: [ 'apple', 'banana', 'beetroot', 
-          'bell pepper', 'cabbage', 'carrot', 
-          'cauliflower', 'chilli pepper','corn',
-          'cucumber', 'ginger','kiwi',
-          'lemon','orange','pineapple',
+          'paprica', 'cabbage', 'carrot', 
+          'cauliflower', 'chili','corn', 
+          'cucumber', 'orange', 'pinneaple',
           'pomegranate','spinach','tomato',
-          'turnip']  # class names
+          'turnip','ginger','kiwi', 'lemon']  # class names
