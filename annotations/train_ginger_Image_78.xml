@@ -1,7 +1,7 @@
 <annotation>
 	<folder>train</folder>
 	<filename>train_ginger_Image_78.jpg</filename>
-	<path>D:/Tugas/Project/IAS/tagging yolo/windows_v1.8.0/data/train/train_ginger_Image_78.jpg</path>
+	<path>..\image\train_ginger_Image_78.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>

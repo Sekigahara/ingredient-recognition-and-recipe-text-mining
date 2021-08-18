@@ -1,7 +1,7 @@
 <annotation>
 	<folder>image</folder>
 	<filename>train_carrot_Image_73.jpeg</filename>
-	<path>E:\Project\Data Science\Fruit Classification\image\train_carrot_Image_73.jpeg</path>
+	<path>..\image\train_carrot_Image_73.jpeg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,7 +12,7 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>w</name>
+		<name>carrot</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -24,7 +24,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>w</name>
+		<name>carrot</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -36,7 +36,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>w</name>
+		<name>carrot</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
